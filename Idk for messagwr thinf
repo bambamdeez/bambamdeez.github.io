@@ -1,0 +1,4 @@
+
+git clone https://github.com/sjlouji/FacebookmessagerClone-Flutter.git
+flutter pub get
+flutter run
